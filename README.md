@@ -40,7 +40,7 @@
 </table>
 
 ---
-<h3 align="center">My Statistics:</h3>
+<h2 align="center">📊 | My Statistics</h2>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -61,12 +61,64 @@
 </table>
 
 ---
-## Contribution Snake 
+## <h2 align="center"> 🐍 | Contribution Snake </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake.svg">
 </picture>
+<hr>
+<div align="center">
+    <h2 align="center">🛠️ | Languages, Frameworks, and Tools</h2>
+  <br>
+  <table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,java,php,laravel,net,spring,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td> <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,angular,vue"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td>  <img height="40" src="https://skillicons.dev/icons?i=mysql,firebase,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+    </tr>
+</table>
+    <br>
+<div/>
+    <h2 align="center">📝 | Used IDE's</h2>
+  <div align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="50" style="margin-right: 10px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="50" style="margin-right: 10px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" style="margin-right: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50">
+  </div>
+</div>
 
+---
 
+<h3 align="center"> 🤝 | Connect with me</h3>
+<br>
+
+<p align="center">
+<a href="www.youtube.com/@bhasurapraneeth2768" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/bhasura-praneeth-b006232ab" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="bhasurapraneeth" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/22318416/bhasura-praneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhasura-praneeth" height="50" width="50" /></a>
+<a href="https://www.facebook.com/basura.pranith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/bhasura_praneeth/profilecard/?igsh=MTljNXRzaWg4dHVncA==" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="bhasura_praneeth" height="50" width="50" /></a>
+</p>
+
+---
+<div align="center">
+  Thanks for watching my profile! Have a nice day! :wink: <br/>
+</div>
