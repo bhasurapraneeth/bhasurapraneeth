@@ -38,8 +38,8 @@
   </td>
 </tr>
 </table>
----
 
+---
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -52,6 +52,8 @@
 </td>
 <td width="50%" align="center">
 
+
+
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bhasurapraneeth&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
@@ -59,5 +61,12 @@
 </table>
 
 ---
+## Contribution Snake 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhasurapraneeth/bhasurapraneeth/output/github-contribution-grid-snake.svg">
+</picture>
 
 
