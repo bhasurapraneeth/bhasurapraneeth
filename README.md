@@ -111,8 +111,8 @@
 <br>
 
 <p align="center">
-<a href="www.youtube.com/@bhasurapraneeth2768" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
-<a href="www.linkedin.com/in/bhasura-praneeth-b006232ab" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="bhasurapraneeth" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@bhasurapraneeth2768" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/bhasura-praneeth-b006232ab/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="bhasurapraneeth" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/22318416/bhasura-praneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhasura-praneeth" height="50" width="50" /></a>
 <a href="https://www.facebook.com/basura.pranith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/bhasura_praneeth/profilecard/?igsh=MTljNXRzaWg4dHVncA==" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="bhasura_praneeth" height="50" width="50" /></a>
