@@ -75,15 +75,15 @@
   <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,java,php,laravel,net,spring,go"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,spring"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td> <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,angular,vue"/></td>
+        <td> <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,ts"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,kubernetes"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions,aws,kubernetes"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
