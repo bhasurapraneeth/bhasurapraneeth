@@ -4,7 +4,7 @@
   </picture>
 
 </p>
-<h1 align="center">Hi, I'm HKB Praneeth 🙋‍♂️</h1>
+<h1 align="center">Hi, I'm Bhasura Praneeth 🙋‍♂️</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhasurapraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="bhasurapraneeth" /> </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -75,7 +75,7 @@
   <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,spring"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,nodejs,php,spring"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -100,7 +100,6 @@
   <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="50" style="margin-right: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="50" style="margin-right: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" style="margin-right: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50">
   </div>
 </div>
